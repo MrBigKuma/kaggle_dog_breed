@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .DS_STORE
 data
+input
 *.h5py
 submit.csv
