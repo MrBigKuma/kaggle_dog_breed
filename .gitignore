@@ -2,5 +2,6 @@
 .DS_STORE
 data
 input
+data_gen
 *.h5py
 submit.csv
